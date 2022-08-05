@@ -4,7 +4,6 @@ hw4Ex5();
     }
 
     public static void hw4Ex1() {
-
         int clientIOS = 0;
         if (clientIOS==0) {
             System.out.println("Установите версию приложения для IOS по ссылке");}
